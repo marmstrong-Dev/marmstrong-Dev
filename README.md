@@ -22,8 +22,8 @@
         <th><ins>Frameworks / Libraries</ins></th>
         <td>ASP.NET Core</td>
         <td>ReactJS</td>
-        <td>Apache Kafka</td>
         <td>Spark / PySpark</td>
+        <td>Apache Kafka</td>        
     </tr>
     <tr>
         <th><ins>Databases</ins></th>
