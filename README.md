@@ -12,31 +12,31 @@
 
 <table>
     <tr>
-        <th>Languages</th>
+        <th><ins>Languages</ins></th>
         <td>C#</td>
         <td>JavaScript</td>
         <td>Python</td>
         <td>Scala</td>
     </tr>
     <tr>
-        <th>Frameworks / Libraries</th>
-        <td>ReactJS</td>
+        <th><ins>Frameworks / Libraries</ins></th>
         <td>ASP.NET Core</td>
+        <td>ReactJS</td>
         <td>Apache Kafka</td>
         <td>Spark / PySpark</td>
     </tr>
     <tr>
-        <th>Databases</th>
-        <td>Microsoft SQL Server</td>
+        <th><ins>Databases</ins></th>
+        <td>Microsoft SQL Server</td>        
+        <td>MongoDB</td>
         <td>PostgreSQL</td>
         <td>CosmosDB</td>
-        <td>MongoDB</td>
     </tr>
     <tr>
-        <th>Programming Concepts</th>
-        <td>Cloud Architecture</td>
+        <th><ins>Programming Concepts</ins></th>
         <td>Object Oriented Design</td>
         <td>Test Driven Development</td>
+        <td>Cloud Architecture</td>
         <td>Scrum / Kanban</td>
     </tr>
 </table>
