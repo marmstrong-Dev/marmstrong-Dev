@@ -13,24 +13,24 @@
 <table>
     <tr>
         <th><ins>Languages</ins></th>
-        <td>Java</td>
+        <td>C#</td>
         <td>JavaScript</td>
         <td>Python</td>
         <td>Scala</td>
     </tr>
     <tr>
         <th><ins>Frameworks / Libraries</ins></th>
-        <td>Spring MVC</td>
+        <td>ASP.NET Core</td>
         <td>ReactJS</td>
         <td>Spark / PySpark</td>
         <td>Apache Kafka</td>        
     </tr>
     <tr>
         <th><ins>Databases</ins></th>
-        <td>MySQL</td>        
+        <td>Micorosoft SQL Server</td>        
         <td>MongoDB</td>
         <td>PostgreSQL</td>
-        <td>Redis</td>
+        <td>CosmosDB</td>
     </tr>
     <tr>
         <th><ins>Programming Concepts</ins></th>
