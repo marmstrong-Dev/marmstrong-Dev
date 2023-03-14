@@ -29,7 +29,7 @@
         <th><ins>Databases</ins></th>
         <td>Micorosoft SQL Server</td>        
         <td>MongoDB</td>
-        <td>PostgreSQL</td>
+        <td>MySQL</td>
         <td>CosmosDB</td>
     </tr>
     <tr>
