@@ -17,13 +17,15 @@
         <td>JavaScript</td>
         <td>Python</td>
         <td>Scala</td>
+        <td>Java</td>
     </tr>
     <tr>
         <th><ins>Frameworks / Libraries</ins></th>
         <td>ASP.NET Core</td>
         <td>ReactJS</td>
         <td>Spark / PySpark</td>
-        <td>Apache Kafka</td>        
+        <td>Apache Kafka</td>
+        <td>Selenium</td>
     </tr>
     <tr>
         <th><ins>Databases</ins></th>
@@ -31,12 +33,14 @@
         <td>MongoDB</td>
         <td>MySQL</td>
         <td>CosmosDB</td>
+        <td>Oracle DB</td>
     </tr>
     <tr>
         <th><ins>Programming Concepts</ins></th>
         <td>Object Oriented Design</td>
         <td>Test Driven Development</td>
         <td>Cloud Architecture</td>
-        <td>Scrum / Kanban</td>
+        <td>Database Architecture</td>
+        <td>Agile Development</td>
     </tr>
 </table>
